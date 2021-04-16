@@ -6,9 +6,10 @@
 ## Build
 [![cppcheck-action](https://github.com/pavanyadav007/Mini_Project/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/pavanyadav007/Mini_Project/actions/workflows/cppcheck.yml)
 
-## Code Quality Score
+## Code Quality
 [![C/C++ CI](https://github.com/pavanyadav007/Mini_Project/actions/workflows/c-build.yml/badge.svg)](https://github.com/pavanyadav007/Mini_Project/actions/workflows/c-build.yml)
 
+## Code Quality Score
 [![Code Quality Score](https://www.code-inspector.com/project/21389/score/svg
 
 ## Unity
