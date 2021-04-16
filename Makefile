@@ -1,5 +1,5 @@
 # Name of the project
-PROJECT_NAME = Genesis
+PROJECT_NAME = Mini_Project
 
 # Output directory
 BUILD = build
