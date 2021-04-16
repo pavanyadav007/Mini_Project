@@ -43,9 +43,7 @@ The project is based on doing acomplex operations in a calculator like tan() of 
 | HR02 | User should be able see output easily | Technical | TBD-S1 |
 | HR02 | User should be able to easily get out program | Technical | TBD-S1 |
 
-
 #Low level Requirements
- 
 | ID | Description | HLR ID | Status (Implemented/Future) |
 | ------ | --------- | ------ | ----- |
 | LR01 | User needs to input as mentioned in the format | HR01 | TBD-S1 |
