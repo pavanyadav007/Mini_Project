@@ -16,7 +16,6 @@
 ## [Git Inspector](using github.io option)
 [![Contribution Check - Git Inspector](https://github.com/pavanyadav007/Mini_Project/actions/workflows/arc-gitinspector.yml/badge.svg)](https://github.com/pavanyadav007/Mini_Project/actions/workflows/arc-gitinspector.yml)
 
-##Folder structure
 
 <table style="width:100%">
   <tr>
