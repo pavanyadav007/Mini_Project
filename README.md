@@ -10,9 +10,9 @@
 [![C/C++ CI](https://github.com/pavanyadav007/Mini_Project/actions/workflows/c-build.yml/badge.svg)](https://github.com/pavanyadav007/Mini_Project/actions/workflows/c-build.yml)
 
 ## Code Quality Score
-[![Code Quality Score](https://www.code-inspector.com/project/21389/score/svg
+(https://www.code-inspector.com/project/21389/score/svg)
 
-[![Codacy Badge](https://www.code-inspector.com/project/21336/score/svg)
+[![Codacy Badge](https://www.code-inspector.com/project/21389/score/svg)
 
 ## Unity
 [![Unit testing](https://github.com/pavanyadav007/Mini_Project/actions/workflows/unit-test.yml/badge.svg)](https://github.com/pavanyadav007/Mini_Project/actions/workflows/unit-test.yml)
