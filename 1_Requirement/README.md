@@ -2,7 +2,7 @@
 
 #Requirements
 
-##Complex Calculator
+#Calculator
 
 The project is based on doing acomplex operations in a calculator like tan() of a number. It helps the user quickly find answer of any complex problem like finding square of a huge number. The project being user friendly makes this project very polpular.
 
@@ -35,7 +35,7 @@ The project is based on doing acomplex operations in a calculator like tan() of 
        
 ##Detail requirements
 
-###High Level Requirements 
+#High Level Requirements 
 
 | ID | Description | Category | Status | 
 | ----- | ----- | ------- | ---------|
@@ -44,7 +44,7 @@ The project is based on doing acomplex operations in a calculator like tan() of 
 | HR02 | User should be able to easily get out program | Technical | TBD-S1 |
 
 
-###Low level Requirements
+#Low level Requirements
  
 | ID | Description | HLR ID | Status (Implemented/Future) |
 | ------ | --------- | ------ | ----- |
