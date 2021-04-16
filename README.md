@@ -8,13 +8,7 @@
 
 ## Code Quality Score
 [![C/C++ CI](https://github.com/pavanyadav007/Mini_Project/actions/workflows/c-build.yml/badge.svg)](https://github.com/pavanyadav007/Mini_Project/actions/workflows/c-build.yml)
-
-[![Code Quality Score](https://www.code-inspector.com/project/21389/score/svg)
-
-## Coverage
-[![CI-Coverage]
-
-[![Code Quality - Static Code - Cppcheck]
+[![Code Quality Score](https://www.code-inspector.com/project/21389/score/svg
 
 ## Unity
 [![Unit testing](https://github.com/pavanyadav007/Mini_Project/actions/workflows/unit-test.yml/badge.svg)](https://github.com/pavanyadav007/Mini_Project/actions/workflows/unit-test.yml)
@@ -22,9 +16,7 @@
 ## [Git Inspector](using github.io option)
 [![Contribution Check - Git Inspector](https://github.com/pavanyadav007/Mini_Project/actions/workflows/arc-gitinspector.yml/badge.svg)](https://github.com/pavanyadav007/Mini_Project/actions/workflows/arc-gitinspector.yml)
 
-
-
-## Folder structure
+##Folder structure
 
 <table style="width:100%">
   <tr>
