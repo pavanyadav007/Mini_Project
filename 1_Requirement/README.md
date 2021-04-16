@@ -1,4 +1,4 @@
-# COMPLEX CALCULATOR
+# CALCULATOR
 
 #  Requirements
 
